@@ -1,4 +1,4 @@
-# Image Caption Generator using CNN and LSTM
+# Image Caption Generator using CNN and LSTM (DL)
 
 ## Overview
 
