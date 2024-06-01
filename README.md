@@ -4,6 +4,8 @@
 
 This repository hosts an Image Caption Generator that combines Convolutional Neural Networks (CNN) for image analysis and Long Short-Term Memory (LSTM) units for sequence modeling. The primary goal is to generate descriptive captions for images in natural language, particularly English.
 
+You can view website in this repo : [Website](https://github.com/ajaykumar703/Image-captioning-website)
+
 ## Methodology
 
 The model architecture integrates state-of-the-art CNN and LSTM components. CNNs extract hierarchical features from images, enabling a comprehensive understanding of visual content. In parallel, LSTM units process sequential data, ensuring the generation of coherent and contextually relevant language.
