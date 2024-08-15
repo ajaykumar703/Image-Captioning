@@ -45,7 +45,7 @@ We enhance the linguistic representation of words in our model using pre-trained
    **or**
    - Download the ipynb file.
 4. **Run Cells:**
-   - change the path in code according to the name you havr given to your downloaded data set and run.
+   - change the path in code according to the name you have given to your downloaded data set and run.
   
      
 ## Feel Free to Contribute
